@@ -1,3 +1,5 @@
+Sourced from : https://github.com/PetterTech/DemoStuff/blob/main/Mermaid/README.md
+
 # Mermaid examples
 To render these in VS Code, you need to install an extension for Mermaid. I use [this one](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid).
 
